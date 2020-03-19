@@ -5,8 +5,8 @@ Exploratory Data Analysis on 911 Emergency Call Data.
 
 CSV file is extracted from www.kaggle.com. The data contains following fields:
 
-**lat : String variable, Latitude**
-**lng: String variable, Longitude**
+* lat : String variable, Latitude *
+* lng: String variable, Longitude *
 **desc: String variable, Description of the Emergency Call**
 **zip: String variable, Zipcode**
 **title: String variable, Title**
