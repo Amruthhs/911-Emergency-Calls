@@ -13,6 +13,6 @@ CSV file is extracted from www.kaggle.com. The data contains following fields:
 * timeStamp: String variable, YYYY-MM-DD HH:MM:SS
 * twp: String variable, Township
 * addr: String variable, Address
-* e: String variable, Dummy variable (always 1)]
+* e: String variable, Dummy variable (always 1)
 
 Markup :  [Click here to view ipynb file](https://github.com/Amruthhs/911-Emergency-Calls/blob/master/analysis.ipynb)
